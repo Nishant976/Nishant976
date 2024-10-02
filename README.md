@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant976" alt="nishant976" /></a> </p>
+
 - 🔭 I’m currently working on **Aadhaar Face RD App**
 
 - 🌱 I’m currently learning **Kotlin**
